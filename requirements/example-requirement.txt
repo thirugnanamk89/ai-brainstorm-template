@@ -1,0 +1,3 @@
+{background of project/feature/problem you are trying to solve}
+{your initial thoughts and approach}
+{specific questions that seek input from AI}

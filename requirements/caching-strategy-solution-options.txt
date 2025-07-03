@@ -1,0 +1,3 @@
+We have a micro-service platform which helps orchestrate data from 50 different downstream APIs. 
+Recently there are some performance issues and 30% of the client traffic seems to be repeat requests.
+What kind of caching strategy could we use ? give me pros and cons
