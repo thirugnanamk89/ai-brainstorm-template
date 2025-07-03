@@ -4,13 +4,13 @@ A structured repository for brainstorming sessions, problem analysis, and soluti
 
 ## 📁 Repository Structure
 
-
-```brainstorm/
+```
+brainstorm/
 ├── requirements/           # Problem statements and initial requirements
 ├── outcomes/              # Solution guides and final outputs organized by topic
 ├── MEMORY_INDEX.md        # Quick reference for all discussions and artifacts
-└── README.md             # This file```
-
+└── README.md             # This file
+```
 
 ## 🚀 How It Works
 
