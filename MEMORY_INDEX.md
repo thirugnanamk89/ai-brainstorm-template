@@ -15,8 +15,8 @@ Quick reference guide for locating discussions and artifacts by topic.
 
 ## 📁 Directory Structure
 
-```/requirements/    # Problem statements and initial requirements
-/outcomes/        # Solution guides and final outputs organized by topic```
+/requirements/    # Problem statements and initial requirements
+/outcomes/        # Solution guides and final outputs organized by topic
 
 
 ## 🚀 Quick Access Commands
